@@ -18,3 +18,13 @@ This project aims to predict house prices using a linear regression model. It in
 - **Flask**: For deploying the model as a web service.
 - **HTML, CSS, JavaScript**: For building a responsive web interface.
 - **Matplotlib**: For data visualization during analysis.
+
+- predictions
+-  ![predictions 1](https://github.com/user-attachments/assets/05276035-0d38-4c9f-bebe-1ea9ac264ff7)
+
+-  ![predictions 2](https://github.com/user-attachments/assets/14bf1fb3-d9c8-488b-8b18-7d7917a6b1f6)
+
+-  ![predictions 3](https://github.com/user-attachments/assets/1c97db39-3c8b-4c19-8ab6-c97f9c2a96eb)
+
+
+
